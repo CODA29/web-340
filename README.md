@@ -1,2 +1,4 @@
-# -web-340
-This is a repository for Node.js course at Bellevue University. 
+# web-340 Node.js
+## Contributors
+- Dagmawi Megra
+- Richard Krasso
