@@ -11,7 +11,7 @@ const {createRecipe, setTimer, quit} = require("./recipes");
 
 // TODO: Implement your CLI program here
 function displayRecipes(){
-  let soupIngredients = ["Beans", "Ham", "Lentils", "Broth"]; // unit test array 
+  let soupIngredients = ["Beans", "Ham", "Lentils", "Broth"]; // testing array
   let recipe = createRecipe(soupIngredients);
   console.log(recipe);
 }
