@@ -1,0 +1,22 @@
+{
+  "name": "pie-baker",
+  "version": "1.0.0",
+  "description": "A simple pie baker",
+  "main": "pie.js",
+  "jest": {
+    "verbose": true
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node src/pie.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Dagmawi Megra",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
