@@ -1,3 +1,4 @@
+"use strict";
 // game-characters.spec.js
 const { GameCharacters } = require("../src/game-characters");
 

@@ -1,3 +1,4 @@
+"use strict";
 // game-characters.js
 const { spawn } = require("child_process");
 const {join} = require("path");

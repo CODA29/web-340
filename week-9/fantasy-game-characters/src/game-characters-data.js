@@ -1,6 +1,6 @@
-// TODO: Implement this script
 "use strict";
 
+// TODO: Implement this script
 const gameCharacters = [
   {class: "Warrior", gender: "Male", funFact: "Loves Karate"},
   {class: "Mage", gender: "Female", funFact: "Does hair magic"},
